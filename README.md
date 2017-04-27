@@ -1,2 +1,2 @@
 # PluginsMaterials
-Collection Of helpful plugin
+Collection Of helpful plugins
